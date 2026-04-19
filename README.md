@@ -1,2 +1,2 @@
-#DDoS with hping3
+DDoS with hping3
 ---
